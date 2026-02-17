@@ -3,7 +3,7 @@
 ## About me
 UTokyo - Information Science  
 42Tokyo - Systems Programming  
-Interests: Operating systems, compilers, and low-level systems  
+Interests: Unix, Operating systems, compilers, and low-level systems  
 
 ## Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaisukeFujise&theme=nord_bright)
