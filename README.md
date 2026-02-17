@@ -1,4 +1,4 @@
-# Hi,there! I'm tafujise
+# Hi,there! I'm TaisukeFujise
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaisukeFujise&theme=nord_bright)
