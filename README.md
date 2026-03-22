@@ -1,5 +1,11 @@
 # 👋Hi, I'm Taisuke
 
+<p align="center">
+  <a href="https://42cv.dev/tafujise">
+    <img src="https://42cv.dev/api/badge/cmmsce5ac000004joq7n5hnoi/stats?cursusId=21&coalitionId=carbon" alt="tafujise's 42 stats" />
+  </a>
+</p>
+
 ## About me
 UTokyo - Information Science  
 42Tokyo - Systems Programming  
