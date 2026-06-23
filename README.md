@@ -30,9 +30,6 @@ Interests: Unix, Operating systems, compilers, and low-level systems
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Languages
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaisukeFujise&theme=nord_bright)
-
 ## Stats📈
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaisukeFujise&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TaisukeFujise&theme=nord_bright)
